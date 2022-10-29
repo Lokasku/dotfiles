@@ -1,0 +1,10 @@
+# Vim
+vim/.netrwhist
+
+# StumpWM
+stumpwm/stumpwm.*
+
+# Fish
+fish/completions/
+fish/conf.d/
+fish/functions/
