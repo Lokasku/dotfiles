@@ -8,3 +8,4 @@ stumpwm/stumpwm.*
 fish/completions/
 fish/conf.d/
 fish/functions/
+fish/config.fish

@@ -22,3 +22,4 @@
 
 ;; load modules
 (module-load 'keybindings)
+(module-load 'display)

@@ -1,3 +1,5 @@
 [user]
 	email = stallwan@proton.me
 	name = Stallwan
+[init]
+	defaultBranch = main
