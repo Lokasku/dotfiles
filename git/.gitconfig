@@ -10,3 +10,5 @@
     ps = push
     pl = pull
     b = branch
+    f = fetch
+    a = add
