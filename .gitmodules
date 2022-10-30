@@ -1,0 +1,3 @@
+[submodule "vim/vim/plugins/VimCompletesMe"]
+    path = vim/vim/plugins/VimCompletesMe
+    url = https://github.com/ackyshake/VimCompletesMe
