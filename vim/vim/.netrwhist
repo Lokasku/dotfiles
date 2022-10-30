@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/b4b4/.vim'
+let g:netrw_dirhist_1='/home/b4b4/.vim/plugins'
+let g:netrw_dirhist_0='/home/b4b4/.vim'
+let g:netrw_dirhist_9='/home/b4b4/.vim/autoload'
+let g:netrw_dirhist_8='/home/b4b4/.vim'
+let g:netrw_dirhist_7='/home/b4b4/.vim/autoload'
+let g:netrw_dirhist_6='/home/b4b4/.vim'
+let g:netrw_dirhist_5='/home/b4b4/.vim/bundle'
+let g:netrw_dirhist_4='/home/b4b4/.vim'
+let g:netrw_dirhist_3='/home/b4b4/.vim/vim/vim'

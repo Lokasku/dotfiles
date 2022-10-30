@@ -1,8 +1,16 @@
-" {{{ Script
+" {{{ Plugins
+
+execute pathogen#infect('plugins/{}')
+
+filetype plugin indent on
+
+" }}}
+
+" {{{ Scripts
 
 augroup filetype_vim
-    autocmd!
-    autocmd FileType vim setlocal foldmethod=marker
+	autocmd!
+	autocmd FileType vim setlocal foldmethod=marker
 augroup END
 
 " }}}
@@ -28,17 +36,13 @@ nnoremap ! :!vim ~/.vimrc<CR>
 nnoremap , :Explore<CR>
 nnoremap ; :Rex<CR>
 
-" }}} 
+" }}}
 
 " {{{ Readability
 
 syntax on
 
-filetype on
-filetype plugin on
-filetype indent on
-
-set scrolloff=16
+set scrolloff=10
 set nowrap
 set showcmd
 set showmode
