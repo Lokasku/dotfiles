@@ -1,9 +1,9 @@
 [user]
-	email = stallwan@proton.me
-	name = Stallwan
+    email = stallwan@proton.me
+    name = Stallwan
 
 [init]
-	defaultBranch = main
+    defaultBranch = main
 
 [alias]
     c = commit -m
@@ -12,3 +12,6 @@
     b = branch
     f = fetch
     a = add
+
+[pull]
+    rebase = false
