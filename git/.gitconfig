@@ -1,5 +1,12 @@
 [user]
 	email = stallwan@proton.me
 	name = Stallwan
+
 [init]
 	defaultBranch = main
+
+[alias]
+    c = commit -m
+    ps = push
+    pl = pull
+    b = branch
