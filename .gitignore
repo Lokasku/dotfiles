@@ -1,13 +1,4 @@
 # Vim
-vim/.netrwhist
-vim/vim/vim/
 vim/vim/.netrwhist
 
-# StumpWM
-stumpwm/stumpwm.*
-
-# Fish
-fish/completions/
-fish/conf.d/
-fish/functions/
-fish/config.fish
+turd/

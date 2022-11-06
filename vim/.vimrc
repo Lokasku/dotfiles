@@ -48,6 +48,7 @@ set showcmd
 set showmode
 set showmatch
 set nocompatible
+set number
 
 " }}}
 
