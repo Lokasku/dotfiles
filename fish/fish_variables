@@ -1,6 +1,8 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3400
+SETUVAR _fish_abbr_c:clear
+SETUVAR _fish_abbr_mc:cd\x20\x3band\x20java\x20\x2djar\x20tl\x2ejar
 SETUVAR _fish_abbr_pg:ping\x20gnu\x2eorg
 SETUVAR _fish_abbr_psyu:sudo\x20pacman\x20\x2dSyu\x20\x2d\x2dcolor\x3d\x22auto\x22
 SETUVAR fish_color_autosuggestion:555
@@ -19,7 +21,7 @@ SETUVAR fish_color_keyword:\x1d
 SETUVAR fish_color_normal:normal
 SETUVAR fish_color_operator:brcyan
 SETUVAR fish_color_option:\x1d
-SETUVAR fish_color_param:d700ff
+SETUVAR fish_color_param:ffffff
 SETUVAR fish_color_quote:ff0000
 SETUVAR fish_color_redirection:0000ff\x1e\x2d\x2dbold
 SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d111

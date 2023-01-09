@@ -1,6 +1,6 @@
 ;; Window
 (setf *set-focus-color* "#00ffff")
-(setf *set-unfocus-color* "#ececec")
+(setf *set-focus-color* "#ececec")
 
 ;; Modeline
 (setf *window-format* "%m%n%s%c") ;; window
@@ -9,9 +9,9 @@
 
 (setf *mode-line-position* :bottom)
 
-(setf *mode-line-background-color* "#404040") 
-(setf *mode-line-foreground-color* "#ececec")
-(setf *mode-line-border-color* "#626262")
+(setf *mode-line-background-color* "#505050") 
+(setf *mode-line-foreground-color* "#ffffff")
+(setf *mode-line-border-color* "#1b1b1b")
 
 (setf *mode-line-timeout* 2)
 (enable-mode-line (current-screen) (current-head) t)

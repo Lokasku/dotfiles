@@ -1,3 +1,11 @@
 [submodule "vim/vim/plugins/VimCompletesMe"]
     path = vim/vim/plugins/VimCompletesMe
     url = https://github.com/ackyshake/VimCompletesMe
+
+[submodule "vim/vim/plugins/syntastic"]
+    path = vim/vim/plugins/syntastic
+    url = https://github.com/vim-syntastic/syntastic
+
+[submodule "vim/vim/plugins/photon"]
+    path = vim/vim/plugins/photon
+    url = https://github.com/axvr/photon 
