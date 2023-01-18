@@ -58,6 +58,7 @@ nnoremap ; :Rex<CR>
 
 " {{{ Readability
 
+syntax enable
 syntax on
 
 set scrolloff=10

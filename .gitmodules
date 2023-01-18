@@ -9,3 +9,7 @@
 [submodule "vim/vim/plugins/photon"]
     path = vim/vim/plugins/photon
     url = https://github.com/axvr/photon 
+
+[submodule "vim/vim/plugings/rust"]
+    path = vim/vim/plugins/rust
+    url = https://github.com/rust-lang/rust.vim
