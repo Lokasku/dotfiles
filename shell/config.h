@@ -99,10 +99,10 @@ unsigned int tabspaces = 8;
 static const char *colorname[] = {
 	/* 8 normal colors */
 	"#000000", // Black
-	"#FFA500", // Orange
+	"#FB1E1E", // Orange
 	"#00FF00", // Green
 	"#FFFF00", // Yellow
-	"#00FFFF", // Blue
+	"#0000FF", // Blue
 	"#FF24E3", // Magenta / Pink
 	"#00FFFF", // Cyan
 	"#C0C0C0", // Silver
@@ -120,7 +120,7 @@ static const char *colorname[] = {
 	[255] = 0,
 
 	/* more colors can be added after 255 to use with DefaultXX */
-	"#cccccc",
+	"#E9E9E9",
 	"#555555",
 	"white", /* nal cmefauht foreground colour */
 	"black", /* default background colour */
