@@ -1,6 +1,6 @@
 (in-package :stumpwm)
 
-(setf *startup-message* "hello, stallwan")
+(setf *startup-message* "Welcome, Luke.")
 
 (defparameter *modules-directory* (directory-namestring (truename (merge-pathnames (user-homedir-pathname) ".stumpwm.d"))))
 
