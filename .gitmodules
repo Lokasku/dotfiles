@@ -13,3 +13,7 @@
 [submodule "vim/vim/plugings/rust"]
     path = vim/vim/plugins/rust
     url = https://github.com/rust-lang/rust.vim
+
+[submodule "vim/vim/plugings/vim-quantum"]
+    path = vim/vim/plugins/vim-quantum
+    url = https://github.com/tyrannicaltoucan/vim-quantum

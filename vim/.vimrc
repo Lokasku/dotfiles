@@ -16,8 +16,13 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
 " Photon
-colorscheme photon
+" colorscheme photon
 " colorscheme antiphoton
+
+" Quantum
+set termguicolors
+let g:quantum_black=1
+colorscheme quantum
 
 " Airline
 let g:airline_theme='cool'
