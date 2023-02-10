@@ -6,14 +6,14 @@
     path = vim/vim/plugins/syntastic
     url = https://github.com/vim-syntastic/syntastic
 
-[submodule "vim/vim/plugins/photon"]
-    path = vim/vim/plugins/photon
+[submodule "vim/vim/plugins/photon.vim"]
+    path = vim/vim/plugins/photon.vim
     url = https://github.com/axvr/photon 
 
-[submodule "vim/vim/plugings/rust"]
-    path = vim/vim/plugins/rust
+[submodule "vim/vim/plugings/rust.vim"]
+    path = vim/vim/plugins/rust.vim
     url = https://github.com/rust-lang/rust.vim
 
-[submodule "vim/vim/plugings/vim-quantum"]
-    path = vim/vim/plugins/vim-quantum
-    url = https://github.com/tyrannicaltoucan/vim-quantum
+[submodule "vim/vim/plugings/equinusocio-material.vim"]
+    path = vim/vim/plugins/equinusocio-material.vim
+    url = https://github.com/chuling/equinusocio-material.vim

@@ -15,8 +15,15 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
+" Equinusocio
+set termguicolors
+" let g:equinusocio_material_style = 'pure'
+" let g:equinusocio_material_style = 'default'
+let g:equinusocio_material_style = 'darker'
+colorscheme equinusocio_material
+
 " Photon
-colorscheme photon
+" colorscheme photon
 " colorscheme antiphoton
 
 " Airline
