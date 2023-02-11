@@ -17,9 +17,9 @@ let g:syntastic_check_on_wq = 0
 
 " Equinusocio
 set termguicolors
-" let g:equinusocio_material_style = 'pure'
+let g:equinusocio_material_style = 'pure'
 " let g:equinusocio_material_style = 'default'
-let g:equinusocio_material_style = 'darker'
+" let g:equinusocio_material_style = 'darker'
 colorscheme equinusocio_material
 
 " Photon
