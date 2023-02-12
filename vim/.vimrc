@@ -15,15 +15,19 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
+" Rainbow
+let g:rainbow_active = 1
+
 " Equinusocio
-set termguicolors
-let g:equinusocio_material_style = 'pure'
+" set termguicolors
+
+" let g:equinusocio_material_style = 'pure'
 " let g:equinusocio_material_style = 'default'
 " let g:equinusocio_material_style = 'darker'
-colorscheme equinusocio_material
+" colorscheme equinusocio_material
 
 " Photon
-" colorscheme photon
+colorscheme photon
 " colorscheme antiphoton
 
 " Airline
@@ -66,7 +70,7 @@ nnoremap ; :Rex<CR>
 " {{{ Readability
 
 syntax enable
-syntax on
+" syntax on
 
 set scrolloff=10
 set nowrap

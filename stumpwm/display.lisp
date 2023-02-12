@@ -1,6 +1,6 @@
 ;; Window
-(setf *set-focus-color* "#00ffff")
-(setf *set-unfocus-color* "#ececec")
+(setf *window-border-style* :tight)
+(setf *set-focus-color* "#00FFFF")
 
 ;; Modeline
 (setf *window-format* "%m%n%s%c") ;; window
@@ -15,6 +15,3 @@
 
 (setf *mode-line-timeout* 2)
 (enable-mode-line (current-screen) (current-head) t)
-
-;; Font
-(set-font "-*-terminus  ttf -*-13*-*-*-*-*-*-*-*-*-*-*")

@@ -17,3 +17,7 @@
 [submodule "vim/vim/plugings/equinusocio-material.vim"]
     path = vim/vim/plugins/equinusocio-material.vim
     url = https://github.com/chuling/equinusocio-material.vim
+
+[submodule "vim/vim/plugings/rainbow"]
+    path = vim/vim/plugins/rainbow
+    url = https://github.com/luochen1990/rainbow
