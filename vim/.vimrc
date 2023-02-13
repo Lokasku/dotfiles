@@ -19,15 +19,15 @@ let g:syntastic_check_on_wq = 0
 let g:rainbow_active = 1
 
 " Equinusocio
-" set termguicolors
+set termguicolors
 
 " let g:equinusocio_material_style = 'pure'
 " let g:equinusocio_material_style = 'default'
-" let g:equinusocio_material_style = 'darker'
-" colorscheme equinusocio_material
+let g:equinusocio_material_style = 'darker'
+colorscheme equinusocio_material
 
 " Photon
-colorscheme photon
+" colorscheme photon
 " colorscheme antiphoton
 
 " Airline
