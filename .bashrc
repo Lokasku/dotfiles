@@ -14,5 +14,7 @@ term="$(cat /proc/$PPID/comm)"
 
 alias f="fish"
 
+export WGPU_BACKEND=gl
+
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"

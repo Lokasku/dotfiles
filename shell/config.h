@@ -7,7 +7,7 @@
  */
 // static char *font = "Source Code Variable:pixelsize=11:antialias=true:autohint=true";
 // static char *font = "TerminessTTF Nerd Font Mono:pixelsize=12:antialias=true:autohint=true";
-static char *font = "JetBrainsMono Nerd Font:pixelsize=11:antialias=true:autohint=true";
+static char *font = "NotoMono Nerd Font:pixelsize=11:antialias=true:autohint=true";
 
 static int borderpx = 2;
 
