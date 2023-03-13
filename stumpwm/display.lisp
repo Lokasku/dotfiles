@@ -1,6 +1,7 @@
 ;; Window
 (setf *window-border-style* :tight)
 (setf *set-focus-color* "#00FFFF")
+(setf *set-unfocus-color* "#7D7D7DE0")
 
 ;; Modeline
 (setf *window-format* "%m%n%s%c") ;; window

@@ -18,3 +18,5 @@ export WGPU_BACKEND=gl
 
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
+
+[ -f "/home/luke/.ghcup/env" ] && source "/home/luke/.ghcup/env" # ghcup-env

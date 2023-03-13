@@ -27,8 +27,13 @@ let g:rainbow_active = 1
 " colorscheme equinusocio_material
 
 " Photon
-colorscheme photon
+" colorscheme photon
 " colorscheme antiphoton
+
+" Paramount
+let g:background= "dark"
+" let g:background= "light"
+colorscheme paramount
 
 " Airline
 " let g:airline_theme='cool'
