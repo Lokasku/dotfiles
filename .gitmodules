@@ -10,14 +10,19 @@
     path = vim/vim/plugins/photon.vim
     url = https://github.com/axvr/photon 
 
-[submodule "vim/vim/plugings/rust.vim"]
+[submodule "vim/vim/plugins/rust.vim"]
     path = vim/vim/plugins/rust.vim
     url = https://github.com/rust-lang/rust.vim
 
-[submodule "vim/vim/plugings/equinusocio-material.vim"]
+[submodule "vim/vim/plugins/equinusocio-material.vim"]
     path = vim/vim/plugins/equinusocio-material.vim
     url = https://github.com/chuling/equinusocio-material.vim
 
-[submodule "vim/vim/plugings/rainbow"]
+[submodule "vim/vim/plugins/rainbow"]
     path = vim/vim/plugins/rainbow
     url = https://github.com/luochen1990/rainbow
+
+[submodule "vim/vim/plugins/vim-floaterm"]
+    path = vim/vim/plugins/vim-floaterm
+    url = https://github.com/voldikss/vim-floaterm
+
