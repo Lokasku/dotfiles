@@ -9,7 +9,7 @@
 static char *font = "JetBrainsMono Nerd Font:pixelsize=10:antialias=true:autohint=true";
 // static char *font = "TerminessTTF Nerd Font:pixelsize=12:antialias=true:autohint=true";
 // static char *font = "DejaVuSansMono Nerd Font:pixelsize=11:antialias=true:autohint=true";
-// static char *font = "NotoMono Nerd Font:pixelsize=11:antialias=true:autohint=true";
+// static char *font = "NotoMono Nerd Font:pixelsize=10:antialias=true:autohint=true";
 
 static int borderpx = 2;
 
@@ -102,23 +102,23 @@ unsigned int tabspaces = 8;
 static const char *colorname[] = {
 	/* 8 normal colors */
 	"#000000", // Black
-	"#FB1E1E", // Orange
-	"#00FF00", // Green
-	"#FFFF00", // Yellow
-	"#0000FF", // Blue
-	"#FF24E3", // Magenta / Pink
-	"#00FFFF", // Cyan
+	"#FDC170", // Orange
+	"#98F786", // Green
+	"#F3F87F", // Yellow
+	"#6D9EFC", // Blue
+	"#937DF8", // Magenta / Pink
+	"#69EBFC", // Cyan
 	"#C0C0C0", // Silver
 
 	/* 8 bright colors */
-	"gray50",
-	"red",
-	"green",
-	"yellow",
-	"#5c5cff",
-	"magenta",
-	"cyan",
-	"white",
+	"gray50", // gray50
+	"#F77C21", // red
+	"#6CF154", // green
+	"#F4EA35", // yellow
+	"#5EAAFF", // Blue
+	"#F274F3", // Magenta
+	"#66FCF1", // Cyan
+	"white", // White
 
 	[255] = 0,
 
@@ -126,7 +126,7 @@ static const char *colorname[] = {
 	"#E9E9E9",
 	"#555555",
 	"white", /* nal cmefauht foreground colour */
-	"black", /* default background colour */
+	"#131313", /* default background colour */
 };
 
 /*

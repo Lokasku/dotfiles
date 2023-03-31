@@ -13,6 +13,7 @@ term="$(cat /proc/$PPID/comm)"
 [[ $- != *i* ]] && return
 
 alias f="fish"
+alias z="zsh"
 
 export WGPU_BACKEND=gl
 

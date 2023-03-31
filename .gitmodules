@@ -26,3 +26,6 @@
     path = vim/vim/plugins/vim-floaterm
     url = https://github.com/voldikss/vim-floaterm
 
+[submodule "vim/vim/plugins/vim-polyglot"]
+    path = vim/vim/plugins/vim-polyglot
+    url = https://github.com/sheerun/vim-polyglot
